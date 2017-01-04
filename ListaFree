@@ -1,4 +1,4 @@
-#EXTINF:-1,########## Gerais ########
+#EXTINF:0,########## Gerais ########
 #EXTINF:-1,RTP 1
 http://tugacs.gotdns.ch:90/live/tugacs/teste/15.ts
 #EXTINF:-1,RTP 1
@@ -9,7 +9,7 @@ http://tugacs.gotdns.ch:90/live/tugacs/teste/86.ts
 http://tugacs.gotdns.ch:90/live/tugacs/teste/18.ts
 
 
-#EXTINF:-1,######## Desporto ########
+#EXTINF:0,######## Desporto ########
 #EXTINF:-1,SPORT TV1
 http://tugacs.gotdns.ch:90/live/tugacs/teste/69.ts
 #EXTINF:-1,SPORT TV2
@@ -17,4 +17,4 @@ http://tugacs.gotdns.ch:90/live/tugacs/teste/70.ts
 #EXTINF:-1,SPORT TV3
 http://tugacs.gotdns.ch:90/live/tugacs/teste/71.ts
 
-#EXTINF:-1,######## Acestream #########
+#EXTINF:0,######## Acestream #########
